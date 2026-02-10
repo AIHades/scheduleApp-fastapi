@@ -1,0 +1,5 @@
+.env
+.venv
+schedule.db
+ideas
+__pycache__
